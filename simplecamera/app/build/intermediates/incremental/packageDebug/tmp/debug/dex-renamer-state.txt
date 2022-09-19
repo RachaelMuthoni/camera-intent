@@ -1,0 +1,4 @@
+#Tue Mar 16 18:00:36 EAT 2021
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\simplecamera\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
